@@ -1,0 +1,5 @@
+1: The user is start the game with X.
+2: The program should check if the program can win in the next turn.
+3: The program should check if the user can win in the next turn and block them.
+4: The program should find the best way to placing the O.
+ 
